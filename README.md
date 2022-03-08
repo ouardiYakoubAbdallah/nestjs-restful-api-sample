@@ -1,2 +1,25 @@
-# nestjs-restful-api-sample
-A full CRUD REST API with end-to-end tests using modern web development techniques.
+# REST API Sample with NestJS
+
+A Bookmarks API with end-to-end tests using modern web development techniques. 
+
+## Built with
+
+* [Nest.js](https://nestjs.com/)
+* [Prisma](https://www.prisma.io/)
+* [PostgreSQL](https://www.postgresql.org/)
+* [Docker](https://www.docker.com/)
+* [Passport.js](https://www.passportjs.org/)
+* [PactumJs](https://pactumjs.github.io/)
+
+## Installation
+
+Use npm to install all requirements
+
+```bash
+npm install
+```
+
+## Usage
+
+```
+```
