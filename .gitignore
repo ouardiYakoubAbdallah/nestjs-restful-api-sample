@@ -37,3 +37,4 @@ lerna-debug.log*
 # Others
 .DS_Store
 .env
+.env.test
